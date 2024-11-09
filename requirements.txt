@@ -1,0 +1,4 @@
+pandas==2.2.3
+python_bcrypt==0.3.2
+streamlit==1.38.0
+websockets==13.0.1
